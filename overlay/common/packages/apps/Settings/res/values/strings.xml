@@ -25,7 +25,7 @@
     <string name="lockscreen_clock_selection_digital_bold">Digital Bold</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
     <string name="lockscreen_clock_selection_sammy_bold">Sammy Bold</string>
-    <string name="string/lockscreen_clock_selection_analog">Analog</string>
+    <string name="lockscreen_clock_selection_analog">Analog</string>
     <string name="lockscreen_clock_selection_analog_avengers">Analog (Avengers)</string>
     <string name="lockscreen_clock_selection_analog_deadpool">Analog (Deadpool)</string>
     <string name="lockscreen_clock_selection_analog_deepnight">Analog (Deep night)</string>
